@@ -1,0 +1,17 @@
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.deps.json
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.dll
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.pdb
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.csprojAssemblyReference.cache
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.AssemblyInfo.cs
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.dll
+/home/gbarska/Desktop/post-ef-ddd/App.Aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.pdb
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.deps.json
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.dll
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/bin/Debug/netcoreapp3.0/Dominio.pdb
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.csprojAssemblyReference.cache
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.AssemblyInfoInputs.cache
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.AssemblyInfo.cs
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.csproj.CoreCompileInputs.cache
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.dll
+/home/gbarska/Desktop/BLOG-MATERIAIS/APPALUGUEL/app-aluguel/Dominio/obj/Debug/netcoreapp3.0/Dominio.pdb
